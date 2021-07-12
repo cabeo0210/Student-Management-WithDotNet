@@ -1,0 +1,10 @@
+C:\Users\HP\Desktop\PRN292\Assignment\Assignment-StudentManager\Assignment-StudentManager\bin\Debug\Assignment-StudentManager.exe.config
+C:\Users\HP\Desktop\PRN292\Assignment\Assignment-StudentManager\Assignment-StudentManager\bin\Debug\Assignment-StudentManager.exe
+C:\Users\HP\Desktop\PRN292\Assignment\Assignment-StudentManager\Assignment-StudentManager\bin\Debug\Assignment-StudentManager.pdb
+C:\Users\HP\Desktop\PRN292\Assignment\Assignment-StudentManager\Assignment-StudentManager\obj\Debug\Assignment-StudentManager.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\PRN292\Assignment\Assignment-StudentManager\Assignment-StudentManager\obj\Debug\Assignment_StudentManager.Form1.resources
+C:\Users\HP\Desktop\PRN292\Assignment\Assignment-StudentManager\Assignment-StudentManager\obj\Debug\Assignment_StudentManager.Properties.Resources.resources
+C:\Users\HP\Desktop\PRN292\Assignment\Assignment-StudentManager\Assignment-StudentManager\obj\Debug\Assignment-StudentManager.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\PRN292\Assignment\Assignment-StudentManager\Assignment-StudentManager\obj\Debug\Assignment-StudentManager.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\PRN292\Assignment\Assignment-StudentManager\Assignment-StudentManager\obj\Debug\Assignment-StudentManager.exe
+C:\Users\HP\Desktop\PRN292\Assignment\Assignment-StudentManager\Assignment-StudentManager\obj\Debug\Assignment-StudentManager.pdb
